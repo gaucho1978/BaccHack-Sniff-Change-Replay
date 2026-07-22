@@ -1,0 +1,29 @@
+C:\claude\BacchackSniffChangeReplay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\claude\BacchackSniffChangeReplay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.AssemblyInfoInputs.cache
+C:\claude\BacchackSniffChangeReplay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.AssemblyInfo.vb
+C:\claude\BacchackSniffChangeReplay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.vbproj.CoreCompileInputs.cache
+C:\claude\BacchackSniffChangeReplay\bin\Debug\net8.0-windows\BacchackSniffChangeReplay.exe
+C:\claude\BacchackSniffChangeReplay\bin\Debug\net8.0-windows\BacchackSniffChangeReplay.deps.json
+C:\claude\BacchackSniffChangeReplay\bin\Debug\net8.0-windows\BacchackSniffChangeReplay.runtimeconfig.json
+C:\claude\BacchackSniffChangeReplay\bin\Debug\net8.0-windows\BacchackSniffChangeReplay.dll
+C:\claude\BacchackSniffChangeReplay\bin\Debug\net8.0-windows\BacchackSniffChangeReplay.pdb
+C:\claude\BacchackSniffChangeReplay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.dll
+C:\claude\BacchackSniffChangeReplay\obj\Debug\net8.0-windows\refint\BacchackSniffChangeReplay.dll
+C:\claude\BacchackSniffChangeReplay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.pdb
+C:\claude\BacchackSniffChangeReplay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.genruntimeconfig.cache
+C:\claude\BacchackSniffChangeReplay\obj\Debug\net8.0-windows\ref\BacchackSniffChangeReplay.dll
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\bin\Debug\net8.0-windows\BacchackSniffChangeReplay.exe
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\bin\Debug\net8.0-windows\BacchackSniffChangeReplay.deps.json
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\bin\Debug\net8.0-windows\BacchackSniffChangeReplay.runtimeconfig.json
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\bin\Debug\net8.0-windows\BacchackSniffChangeReplay.dll
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\bin\Debug\net8.0-windows\BacchackSniffChangeReplay.pdb
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.AssemblyInfoInputs.cache
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.AssemblyInfo.vb
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.vbproj.CoreCompileInputs.cache
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.sourcelink.json
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.dll
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\obj\Debug\net8.0-windows\refint\BacchackSniffChangeReplay.dll
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.pdb
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\obj\Debug\net8.0-windows\BacchackSniffChangeReplay.genruntimeconfig.cache
+C:\claude\BacchackSniffChangeReplay\BaccHack Sniff&Change&Replay\obj\Debug\net8.0-windows\ref\BacchackSniffChangeReplay.dll

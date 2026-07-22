@@ -1,0 +1,28 @@
+Prerequisiti per BacchackSniffChangeReplay
+===========================================
+
+Questo programma invia pacchetti di rete grezzi tramite il driver Npcap
+(compatibile con la vecchia API WinPcap usata da Wireshark).
+
+Su QUESTO PC il driver Npcap risulta già installato: wpcap.dll e Packet.dll
+sono già stati copiati in questa cartella accanto all'exe, quindi non serve
+fare nulla.
+
+Se invece copi la cartella "bin\Debug\net8.0-windows" su un ALTRO PC che non
+ha Wireshark/Npcap installato, il programma non riuscirà a inviare pacchetti
+(le sole DLL non bastano: serve anche il driver di livello kernel). In tal
+caso, su quel PC:
+
+  1. Esegui "npcap-1.88.exe" (in questa cartella) come amministratore.
+  2. Durante l'installazione lascia selezionata l'opzione
+     "Install Npcap in WinPcap API-compatible Mode".
+  3. Riavvia il PC se richiesto.
+  4. Esegui BacchackSniffChangeReplay.exe come amministratore: Npcap di
+     default consente l'apertura delle interfacce (cattura/invio) solo a
+     processi elevati.
+
+Nota: npcap-1.88.exe è il pacchetto ufficiale di Npcap già presente su
+questo PC (installato originariamente con Wireshark), copiato qui solo per
+comodità di distribuzione. La licenza Npcap consente l'uso gratuito
+personale/di valutazione; per un uso commerciale/redistribuzione su larga
+scala serve una licenza Npcap OEM (vedi https://npcap.com/oem/).

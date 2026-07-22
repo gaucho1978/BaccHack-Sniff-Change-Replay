@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+
+    <RootNamespace>BacchackSniffChangeReplay</RootNamespace>
+    <AssemblyName>BacchackSniffChangeReplay</AssemblyName>
+
+    <UseApplicationFramework>false</UseApplicationFramework>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <StartupObject>BacchackSniffChangeReplay.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="TestRunner\**" />
+    <EmbeddedResource Remove="TestRunner\**" />
+    <None Remove="TestRunner\**" />
+  </ItemGroup>
+
+</Project>
